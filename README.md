@@ -44,6 +44,16 @@ Contiene las credenciales y configuraciones necesarias para conectarse al sitio 
 
 CREDENTIALS: Correo y contraseña del usuario de SharePoint.
 PATH: Dominio, sitio y raíz de la carpeta compartida en SharePoint.
+
+[CREDENTIALS]
+sharepoint_email = 
+sharepoint_password =  
+
+[PATH]
+sharepoint_domain = 
+sharepoint_site = 
+sharepoint_root = 
+
 ```
 ---
 ## Archivo sharepoint_manager.py ⬇️
