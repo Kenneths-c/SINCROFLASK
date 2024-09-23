@@ -1,0 +1,7 @@
+Flask
+asyncio
+requests
+configparser
+office365-runtime
+office365-sharepoint
+requests
